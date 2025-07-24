@@ -17,6 +17,6 @@ Always eager to learn, build, and share what I discover!
   </div>
   <div>
     <h3>🛠️ Languages I use</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2527DC&layout=compact&langs_count=6&theme=tokyonight" alt="Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2527DC&exclude_repo=my-old-php-repo,another-test-repo&layout=compact&langs_count=6&theme=tokyonight" />
   </div>
 </div>
