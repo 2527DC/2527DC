@@ -8,15 +8,4 @@ Right now, I'm diving deeper into <strong>DevOps concepts</strong> while continu
 Always eager to learn, build, and share what I discover!
 </p>
 
-<div align="left" style="display: flex; flex-direction: row; align-items: flex-start;">
-<!--   <div>
-    <h3>🏆 GitHub Trophies</h3>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=2527DC&title=Commit,PullRequest,Repositories" alt="Trophies" style="margin-right: 20px;" />
-    </a>
-  </div> -->
-  <div>
-    <h3>🛠️ Languages I use</h3>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2527DC&exclude_repo=my-old-php-repo,another-test-repo&layout=compact&langs_count=6&theme=tokyonight" />
-  </div>
-</div>
+
